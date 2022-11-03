@@ -1,3 +1,4 @@
+! Title: YouTube Ad Blocklist
 r0---sn-1gi7znel.googlevideo.com
 r0---sn-25ge7n7d.googlevideo.com
 r0---sn-25ge7n7e.googlevideo.com
@@ -84384,7 +84385,7 @@ r4---sn-o097znlr.googlevideo.com
 r4---sn-o097znsk.googlevideo.com
 r4---sn-o097znsr.googlevideo.com
 r4---sn-o097znss.googlevideo.com
-r4---sn-o097znss.googlevideo.com.local
+r4---sn-o097znss.googlevideo.com
 r4---sn-o097znsz.googlevideo.com
 r4---sn-o097znz7.googlevideo.com
 r4---sn-o097znze.googlevideo.com
@@ -114689,7 +114690,7 @@ rr4---sn-a5msenek.googlevideo.com
 rr4---sn-a5msenes.googlevideo.com
 rr4---sn-jvhj5nu-nh4e.googlevideo.com
 rr4---sn-jvhj5nu-nh4l.googlevideo.com
-rr4---sn-jvhj5nu-nh4l.googlevideo.com.local
+rr4---sn-jvhj5nu-nh4l.googlevideo.com
 rr4---sn-jvhj5nu-nh4s.googlevideo.com
 rr4---sn-jvhj5nu-nh4z.googlevideo.com
 rr4---sn-o097znld.googlevideo.com
